@@ -1,3 +1,4 @@
+# a program by skeyur18
 x = input('what is your name')
 if x == 'keyur' or 'john' or 'vikey' or 'subha':
   print("Great person" )
