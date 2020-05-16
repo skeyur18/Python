@@ -1,0 +1,4 @@
+#a program by skeyur18
+x=int(input("enter a value of x")); 
+y=int(input("enter a value of y")); 
+print (x*y) ;
